@@ -21,7 +21,14 @@ consist of hourly average ambient variables Temperature (T), Ambient Pressure (A
 Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical
 energy output (EP) of the plant.
 
-[Homework pdf](./aw_hw_2/pdf/Homework2-inf552.pdf)  | [Notebook Ipynb](./aw_hw_2/Aaron_homework_2.ipynb)
+<a href="aw_hw_2/pdf/Homework2-inf552.pdf" class="image fit">Homework pdf</a> | [Notebook Ipynb](./aw_hw_2/Aaron_homework_2.ipynb)
+
+## Homeworl_3
+An interesting task in machine learning is classification of time series. In this problem,
+we will classify the activities of humans based on time series obtained by a Wireless
+Sensor Network.
+
+[Homework pdf](./aw_hw_3/pdf/Homework3-inf552.pdf)  | [Notebook Ipynb](./aw_hw_3/Aaron_homework_3.ipynb)
 
 
 

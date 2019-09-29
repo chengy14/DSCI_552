@@ -28,7 +28,6 @@ if __name__ == "__main__":
 	knn_clf.fit(X_train, y_train)
 	y_predict = knn_clf.predict(X_test)
 
-	confusion_matrix(y_test, y_predict)
 	crosstab = pd.crosstab(y_test, y_predict, rownames=['True'], colnames=['Predicted'], margins=True)
 	true_positive = crosstab.loc[[0]].values[0][0]
 	false_positive = crosstab.loc[[0]].values[0][1]

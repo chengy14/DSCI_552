@@ -2,7 +2,7 @@
 USC 2019 Fall   (Applied Data Science)
 
 ---
-## Homeworl_1
+## Homework_1
 This Biomedical data set was built by Dr. Henrique da Mota during a medical residence
 period in Lyon, France. Each patient in the data set is represented in the data set
 by six biomechanical attributes derived from the shape and orientation of the pelvis
@@ -12,23 +12,24 @@ used for the class labels: DH (Disk Hernia), Spondylolisthesis (SL), Normal (NO)
 Abnormal (AB). In this exercise, we only focus on a binary classification task NO=0
 and AB=1
 
-[Homework pdf](./aw_hw_1/pdf/Homework1-inf552.pdf)  | [Notebook Ipynb](./aw_hw_1/Aaron_homework_1.ipynb)
+[Homework pdf](https://github.com/AaronYang2333/INF_552/files/3667960/Homework1-inf552.pdf)  | [Notebook Ipynb](./aw_hw_1/Aaron_homework_1.ipynb)
 
-## Homeworl_2
+## Homework_2
 The dataset contains data points collected from a Combined Cycle Power Plant over
 6 years (2006-2011), when the power plant was set to work with full load. Features
 consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP),
 Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical
 energy output (EP) of the plant.
 
-<a href="aw_hw_2/pdf/Homework2-inf552.pdf" class="image fit">Homework pdf</a> | [Notebook Ipynb](./aw_hw_2/Aaron_homework_2.ipynb)
+[Homework pdf](https://github.com/AaronYang2333/INF_552/files/3667962/Homework2-inf552.pdf)
+[Homework3-inf552.pdf) | [Notebook Ipynb](./aw_hw_2/Aaron_homework_2.ipynb)
 
-## Homeworl_3
+## Homework_3
 An interesting task in machine learning is classification of time series. In this problem,
 we will classify the activities of humans based on time series obtained by a Wireless
 Sensor Network.
 
-[Homework pdf](./aw_hw_3/pdf/Homework3-inf552.pdf)  | [Notebook Ipynb](./aw_hw_3/Aaron_homework_3.ipynb)
+[Homework pdf](https://github.com/AaronYang2333/INF_552/files/3667959/Homework3-inf552.pdf)  | [Notebook Ipynb](./aw_hw_3/Aaron_homework_3.ipynb)
 
 
 

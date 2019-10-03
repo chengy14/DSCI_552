@@ -22,7 +22,7 @@ Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electric
 energy output (EP) of the plant.
 
 [Homework pdf](https://github.com/AaronYang2333/INF_552/files/3667962/Homework2-inf552.pdf)
-[Homework3-inf552.pdf) | [Notebook Ipynb](./aw_hw_2/Aaron_homework_2.ipynb)
+ | [Notebook Ipynb](./aw_hw_2/Aaron_homework_2.ipynb)
 
 ## Homework_3
 An interesting task in machine learning is classification of time series. In this problem,
@@ -30,6 +30,16 @@ we will classify the activities of humans based on time series obtained by a Wir
 Sensor Network.
 
 [Homework pdf](https://github.com/AaronYang2333/INF_552/files/3667959/Homework3-inf552.pdf)  | [Notebook Ipynb](./aw_hw_3/Aaron_homework_3.ipynb)
+
+
+## Homework_4
+This set of homework applies SMOTE to a seriously imbalanced dataset
+with a large number of features and data points. SMOTE is essentially a time consuming
+method. You need to start doing this homework early, so that you have enough time to run
+SMOTE on the full dataset.
+
+[Homework pdf](https://github.com/AaronYang2333/INF_552/files/3667963/Homework4-inf552.pdf)  | [Notebook Ipynb](./aw_hw_3/Aaron_homework_3.ipynb)
+
 
 
 

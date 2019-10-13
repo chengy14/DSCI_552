@@ -21,7 +21,6 @@ The dataset contains data points collected from a Combined Cycle Power Plant ove
 consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP),
 Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical
 energy output (EP) of the plant.
-https://github.com/AaronYang2333/INF_552/files/3722455/Aaron_Homework_2.pdf
 
 <a href="https://github.com/AaronYang2333/INF_552/files/3667962/Homework2-inf552.pdf" target="_blank">[Homework pdf]</a> | 
 <a href="https://github.com/AaronYang2333/INF_552/files/3722455/Aaron_Homework_2.pdf" target="_blank">[Notebook Ipynb]</a>

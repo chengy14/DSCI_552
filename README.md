@@ -12,7 +12,8 @@ used for the class labels: DH (Disk Hernia), Spondylolisthesis (SL), Normal (NO)
 Abnormal (AB). In this exercise, we only focus on a binary classification task NO=0
 and AB=1
 
-[Homework pdf](https://github.com/AaronYang2333/INF_552/files/3667960/Homework1-inf552.pdf)  | [Notebook Ipynb](./aw_hw_1/Aaron_homework_1.ipynb)
+<a href="https://github.com/AaronYang2333/INF_552/files/3667960/Homework1-inf552.pdf" target="_blank">[Homework pdf]</a> | 
+<a href="https://github.com/AaronYang2333/INF_552/files/3722454/Aaron_homewrok_1.pdf" target="_blank">[Notebook Ipynb]</a>
 
 ## Homework_2
 The dataset contains data points collected from a Combined Cycle Power Plant over

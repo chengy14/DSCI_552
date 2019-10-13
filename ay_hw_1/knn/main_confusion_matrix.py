@@ -3,14 +3,13 @@ __author__ = 'Aaron Yang'
 __email__ = 'byang971@usc.edu'
 __date__ = '8/29/2019 11:31 AM'
 
+import pandas as pd
+from sklearn.metrics import classification_report
 # from ay_hw_1.knn.knn_euclidean import KNeighborsClassifier
 from sklearn.neighbors import KNeighborsClassifier
-from ay_hw_1.util import load_data, train_test_by_class_index
-from ay_hw_1._global import CLASS0, CLASS1
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import classification_report
 
-import pandas as pd
+from ay_hw_1._global import CLASS0, CLASS1
+from ay_hw_1.util import load_data, train_test_by_class_index
 
 """
 Calculate the confusion matrix, true positive rate, true negative rate, precision,

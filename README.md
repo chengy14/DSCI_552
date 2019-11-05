@@ -35,7 +35,7 @@ Sensor Network.
 
 
 ## Homework_4
-- 1. The LASSO and Boosting for Regression
+- 1.The LASSO and Boosting for Regression
 	Download the Communities and Crime data1 from https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime. 
 	Use the first 1495 rows of data as the training set and the rest as the test set.
 
@@ -46,7 +46,7 @@ Sensor Network.
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_4/Aaron_homework_4.ipynb" target="_blank">[Notebook Ipynb]</a>
 
 ## Homework_5
-- 1. Multi-class and Multi-Label Classification Using Support Vector Machines
+- 1.Multi-class and Multi-Label Classification Using Support Vector Machines
 	Download the Anuran Calls (MFCCs) Data Set from: https://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29. 
 	Choose 70% of the data randomly as the training set
 
@@ -57,7 +57,7 @@ Sensor Network.
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_5/Aaron_homework_5.ipynb" target="_blank">[Notebook Ipynb]</a>
 
 ## Homework_6
-- 1. Supervised, Semi-Supervised, and Unsupervised Learning
+- 1.Supervised, Semi-Supervised, and Unsupervised Learning
 	Download the Breast Cancer Wisconsin (Diagnostic) Data Set from: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29. Download the data in https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data, which has IDs, classes (Benign=B, Malignant=M), and 30 attributes. This data has two output classes. Use the first 20% of the positive and negative classes in the file as the test set and the rest as the training set.
 
 - 2. Active Learning Using Support Vector Machines
@@ -67,7 +67,7 @@ Sensor Network.
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_6/Aaron_homework_6.ipynb" target="_blank">[Notebook Ipynb]</a>
 
 ## Homework_7
-- 1. Generative Models for Text
+- 1.Generative Models for Text
 	In this problem, we are trying to build a generative model to mimic the writing style of prominent British Mathematician Philosopher, prolific writer, and political activist, Bertrand Russell.
 
 - 2. (Deep) CNNs for Image Colorization

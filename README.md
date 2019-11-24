@@ -1,6 +1,7 @@
-# INF_552 (Machine Learning of Data Science) 
-USC 2019 Fall  (Applied Data Science) Homeworks<br>
-Practical applications of machine learning techniques to real-world problems. Uses in data mining and recommendation systems and for building adaptive user interfaces.
+# INF_552 (Machine Learning of Data Science) Homeworks Respority
+
+#### Practical applications of machine learning techniques to real-world problems. Uses in data mining and recommendation systems and for building adaptive user interfaces.
+
 ---
 ## Homework_1
 This Biomedical data set was built by Dr. Henrique da Mota during a medical residence

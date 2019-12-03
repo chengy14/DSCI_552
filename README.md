@@ -3,7 +3,7 @@
 #### Practical applications of machine learning techniques to real-world problems. Uses in data mining and recommendation systems and for building adaptive user interfaces.
 
 ---
-## Homework_1
+## Homework_1 (KNN)
 This Biomedical data set was built by Dr. Henrique da Mota during a medical residence
 period in Lyon, France. Each patient in the data set is represented in the data set
 by six biomechanical attributes derived from the shape and orientation of the pelvis
@@ -16,7 +16,7 @@ and AB=1
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_1/pdf/Homework1-inf552.pdf" target="_blank">[Homework pdf]</a> | 
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_1/Aaron_homewrok_1.ipynb" target="_blank">[Notebook Ipynb]</a>
 
-## Homework_2
+## Homework_2 (Linear Regression)
 The dataset contains data points collected from a Combined Cycle Power Plant over
 6 years (2006-2011), when the power plant was set to work with full load. Features
 consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP),
@@ -26,7 +26,7 @@ energy output (EP) of the plant.
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_2/pdf/Homework2-inf552.pdf" target="_blank">[Homework pdf]</a> | 
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_2/Aaron_homework_2.ipynb" target="_blank">[Notebook Ipynb]</a>
 
-## Homework_3
+## Homework_3 (Logistic Regression)
 An interesting task in machine learning is classification of time series. In this problem,
 we will classify the activities of humans based on time series obtained by a Wireless
 Sensor Network.
@@ -35,7 +35,7 @@ Sensor Network.
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_3/Aaron_homework_3.ipynb" target="_blank">[Notebook Ipynb]</a>
 
 
-## Homework_4
+## Homework_4 (Regularization | Forest)
 - 1. The LASSO and Boosting for Regression
 	Download the Communities and Crime data1 from https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime. 
 	Use the first 1495 rows of data as the training set and the rest as the test set.
@@ -46,7 +46,7 @@ Sensor Network.
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_4/pdf/Homework4-inf552.pdf" target="_blank">[Homework pdf]</a> | 
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_4/Aaron_homework_4.ipynb" target="_blank">[Notebook Ipynb]</a>
 
-## Homework_5
+## Homework_5 (SVM | k-means)
 - 1. Multi-class and Multi-Label Classification Using Support Vector Machines
 	Download the Anuran Calls (MFCCs) Data Set from: https://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29. 
 	Choose 70% of the data randomly as the training set
@@ -57,7 +57,7 @@ Sensor Network.
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_5/pdf/Homework5-inf552.pdf" target="_blank">[Homework pdf]</a> | 
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_5/Aaron_homework_5.ipynb" target="_blank">[Notebook Ipynb]</a>
 
-## Homework_6
+## Homework_6 (Passive Learning | Active Learning)
 - 1. Supervised, Semi-Supervised, and Unsupervised Learning
 	Download the Breast Cancer Wisconsin (Diagnostic) Data Set from: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29. Download the data in https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data, which has IDs, classes (Benign=B, Malignant=M), and 30 attributes. This data has two output classes. Use the first 20% of the positive and negative classes in the file as the test set and the rest as the training set.
 
@@ -67,7 +67,7 @@ Sensor Network.
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_6/pdf/Homework6-inf552.pdf" target="_blank">[Homework pdf]</a> | 
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_6/Aaron_homework_6.ipynb" target="_blank">[Notebook Ipynb]</a>
 
-## Homework_7
+## Homework_7 (Deep Learning LSTM | CNN)
 - 1. Generative Models for Text
 	In this problem, we are trying to build a generative model to mimic the writing style of prominent British Mathematician Philosopher, prolific writer, and political activist, Bertrand Russell.
 
@@ -75,4 +75,5 @@ Sensor Network.
 	This assignment uses a convolutional neural network for image colorization which turns a grayscale image to a colored image.5 By converting an image to grayscale, we loose color information, so converting a grayscale image back to a colored version is not an easy job. We will use the CIFAR-10 dataset. Downolad the dataset from http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
 <a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_7/pdf/Homework7-inf552.pdf" target="_blank">[Homework pdf]</a> | 
-<a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_7/Aaron_homework_7.ipynb" target="_blank">[Notebook Ipynb]</a>
+<a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_7/Generative_Models_For_Text.ipynb" target="_blank">[LSTM Ipynb]</a>
+<a href="https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_7/CNNs_For_Image_Coloization.ipynb" target="_blank">[CNNs Ipynb]</a>

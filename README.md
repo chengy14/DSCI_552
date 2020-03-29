@@ -1,6 +1,7 @@
 # 2019 Fall USC INF_552 (Machine Learning of Data Science) Homeworks Respority
 
 Coursework in University of Southern California. Practical applications of machine learning techniques to real-world problems.
+
 |No.|Main Algorithm|Homework Dir|Homework PDF|Score|
 |---|--------------|------------|------------|-----|
 |1|`KNN`|[IPYNB](https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_1/Aaron_homewrok_1.ipynb)|[PDF](https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_1/pdf/Homework1-inf552.pdf)|100 / 100|

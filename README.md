@@ -2,7 +2,7 @@
 
 Coursework in University of Southern California. Practical applications of machine learning techniques to real-world problems.
 |No.| Main Algorithm |Homework Dir|Homework PDF|Score|
-|---|----------------|------------|-------|-----|
+|---|----------------|------------|------------|-----|
 |1|`KNN`|[IPYNB](https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_1/Aaron_homewrok_1.ipynb)|[PDF](https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_1/pdf/Homework1-inf552.pdf)|100 / 100|
 |2|`Linear Regression`|[IPYNB](https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_2/Aaron_homewrok_2.ipynb)|[PDF](https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_2/pdf/Homework2-inf552.pdf)|100 / 100|
 |3|`Logistic Regression`|[IPYNB](https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_3/Aaron_homewrok_3.ipynb)|[PDF](https://github.com/AaronYang2333/INF_552/blob/master/ay_hw_3/pdf/Homework3-inf552.pdf)|100 / 100|

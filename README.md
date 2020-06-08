@@ -1,6 +1,12 @@
-# 2019 Fall USC INF_552 (Machine Learning of Data Science) Homeworks Respority
+## 2019 Fall USC INF_552 (Machine Learning of Data Science) Homeworks Respority
 
-Coursework in University of Southern California. Practical applications of machine learning techniques to real-world problems.
+#### Description
+A foundational course with the primary application to data analytics, but is intended to be accessible both to students from technical backgrounds such as computer science, computer engineering, electrical engineering, or mathematics; and to students from less
+technical backgrounds such as business administration, communication, accounting, various medical specializations including preventative medicine and personalized medicine, genomics, and management information systems. A basic understanding of engineering and/or technology principles is needed, as well as basic programming skills, sufficient mathematical background in probability,
+statistics, and linear algebra
+
+#### Homework
+Practical applications of machine learning techniques to real-world problems.
 
 |No.|Main Algorithm|Homework Dir|Homework PDF|Score|
 |---|--------------|------------|------------|-----|

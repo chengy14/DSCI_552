@@ -1,4 +1,4 @@
-## 2019 Fall USC INF_552 (Machine Learning of Data Science) Homeworks Respority
+## 2019 Fall USC DSCI_552 (Machine Learning of Data Science) Homeworks Respority
 
 #### Description
 A foundational course with the primary application to data analytics, but is intended to be accessible both to students from technical backgrounds such as computer science, computer engineering, electrical engineering, or mathematics; and to students from less
